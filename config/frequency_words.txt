@@ -45,6 +45,7 @@ chatgpt
 openai
 sora
 codex
+atlas
 
 claude
 Anthropic
